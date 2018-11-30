@@ -1,6 +1,6 @@
 # SketchExtensions
 
-[![CI Status](https://img.shields.io/travis/Christian Hansen/SketchExtensions.svg?style=flat)](https://travis-ci.org/Christian Hansen/SketchExtensions)
+<!--[![CI Status](https://img.shields.io/travis/Christian Hansen/SketchExtensions.svg?style=flat)](https://travis-ci.org/Christian Hansen/SketchExtensions)-->
 <!--[![Version](https://img.shields.io/cocoapods/v/SketchExtensions.svg?style=flat)](https://cocoapods.org/pods/SketchExtensions)-->
 <!--[![License](https://img.shields.io/cocoapods/l/SketchExtensions.svg?style=flat)](https://cocoapods.org/pods/SketchExtensions)-->
 <!--[![Platform](https://img.shields.io/cocoapods/p/SketchExtensions.svg?style=flat)](https://cocoapods.org/pods/SketchExtensions)-->

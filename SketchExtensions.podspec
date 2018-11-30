@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-SketchExtensions is a collection of tools for easily applying Sketch designs programatically.
+SketchExtensions is a collection of tools for easily applying Sketch designs programatically. If you would like to contribute, please submit a pull request.
                        DESC
 
   s.homepage         = 'https://github.com/chansencc/SketchExtensions'
