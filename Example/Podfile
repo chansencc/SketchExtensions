@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SketchExtensions_Example' do
+  pod 'SketchExtensions', :path => '../'
+
+  target 'SketchExtensions_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
