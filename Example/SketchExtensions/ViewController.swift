@@ -7,12 +7,25 @@
 //
 
 import UIKit
+import SketchExtensions
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        let redView = UIView(frame: CGRect(x: 0, y: 0, width: 100, height: 100))
+        redView.center = self.view.center
+        redView.backgroundColor = UIColor.red
+        
+        redView.layer.sketchShadow(color: .black,
+                                   xPos: 10,
+                                   yPos: 20,
+                                   alpha: 0.5,
+                                   blur: 20,
+                                   spread: 2)
+        
+        self.view.addSubview(redView)
     }
 
     override func didReceiveMemoryWarning() {
