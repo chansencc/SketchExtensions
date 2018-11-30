@@ -8,8 +8,8 @@
 import Foundation
 import UIKit
 
-extension CALayer {
-    func sketchShadow(
+public extension CALayer {
+    public func sketchShadow(
         color: UIColor = .black,
         xPos: CGFloat = 0,
         yPos: CGFloat = 2,
