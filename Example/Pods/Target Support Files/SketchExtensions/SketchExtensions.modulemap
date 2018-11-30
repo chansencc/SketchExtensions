@@ -1,0 +1,6 @@
+framework module SketchExtensions {
+  umbrella header "SketchExtensions-umbrella.h"
+
+  export *
+  module * { export * }
+}

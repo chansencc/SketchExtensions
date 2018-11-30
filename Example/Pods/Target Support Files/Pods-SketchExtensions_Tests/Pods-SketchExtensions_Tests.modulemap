@@ -1,0 +1,6 @@
+framework module Pods_SketchExtensions_Tests {
+  umbrella header "Pods-SketchExtensions_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

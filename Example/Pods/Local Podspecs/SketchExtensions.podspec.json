@@ -1,0 +1,22 @@
+{
+  "name": "SketchExtensions",
+  "version": "0.1.0",
+  "summary": "A short description of SketchExtensions.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Christian Hansen/SketchExtensions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Christian Hansen": "chansen@rhinocg.com"
+  },
+  "source": {
+    "git": "https://github.com/Christian Hansen/SketchExtensions.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SketchExtensions/Classes/**/*"
+}

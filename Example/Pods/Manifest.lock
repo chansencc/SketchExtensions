@@ -1,0 +1,16 @@
+PODS:
+  - SketchExtensions (0.1.0)
+
+DEPENDENCIES:
+  - SketchExtensions (from `../`)
+
+EXTERNAL SOURCES:
+  SketchExtensions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SketchExtensions: 5a29650dd5e2f9380a7bde095012c4e49568fc44
+
+PODFILE CHECKSUM: e936575c9275cc20c71ca4b279daa9bfab6d3ac9
+
+COCOAPODS: 1.5.3
