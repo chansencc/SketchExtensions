@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SketchExtensions'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'SketchExtensions - Apply Sketch design elements'
 
 # This description is used to generate tags and improve search results.
@@ -27,7 +27,6 @@ SketchExtensions is a collection of tools for easily applying Sketch designs pro
   s.source           = { :git => 'https://github.com/chansencc/SketchExtensions.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
-  s.swift_version = '4.2'
 
   s.source_files = 'SketchExtensions/Classes/**/*'
   s.frameworks = 'UIKit'
