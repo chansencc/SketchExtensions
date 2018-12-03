@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SketchExtensions'
-  s.version          = '0.3.0'
-  s.summary          = 'SketchExtensions - Apply Sketch design elements'
+  s.version          = '0.4.0'
+  s.summary          = 'Programatically apply Sketch design elements'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -31,10 +31,4 @@ SketchExtensions is a collection of tools for easily applying Sketch designs pro
   s.source_files = 'SketchExtensions/Classes/**/*'
   s.frameworks = 'UIKit'
 
-  # s.resource_bundles = {
-  #   'SketchExtensions' => ['SketchExtensions/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end
